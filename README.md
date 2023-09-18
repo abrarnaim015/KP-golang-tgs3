@@ -1,1 +1,1 @@
-# KP-golang-tgs3
+# KartuPrakerja-Golang-Tugas3
